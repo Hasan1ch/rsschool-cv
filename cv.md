@@ -20,7 +20,7 @@ Computer Science graduate (First Class Honours) with experience in building mobi
 ## Education
 
 **BSc (Hons) Computer Science — First Class Honours**  
-University of Roehampton, London — 2025 Graduate
+University of Roehampton, London — 2025 Graduate.
 
 ## Key Projects
 
@@ -33,11 +33,11 @@ University of Roehampton, London — 2025 Graduate
 - Implemented real-time code execution with Judge0 API supporting Python.
 - Developed gamification features (XP, leaderboards, achievements) with Firestore.
 
-🔗 [ProCode](https://newprocode.web.app/)
+🔗 [Live Demo](https://newprocode.web.app/)
 
 ---
 
-### Elite Gisht — Full-Stack, Website
+### Elite Gisht — Full-Stack Company Website
 
 **Technologies:** React.js, Tailwind CSS, Firebase
 
@@ -47,3 +47,37 @@ University of Roehampton, London — 2025 Graduate
 - Optimized API response times by **40%** and implemented lazy loading for performance.
 
 🔗 [Website](https://www.elitegisht.com/)
+
+---
+
+## Code Example
+
+```js
+// Check if a number is even or odd
+function isEven(num) {
+  return num % 2 === 0;
+}
+
+console.log(isEven(4)); // true
+console.log(isEven(7)); // false
+```
+
+## Certifications
+
+Cisco Introduction to Cybersecurity — 100% (2025)
+
+Cisco NDG Linux Unhatched — 98.35% (2025)
+
+## Achievements
+
+Captain, Roehampton University Esports Team — 7th in UK (2024)
+
+Esports Scholarship Recipient
+
+## Languages
+
+English — Fluent
+
+Uzbek — Native
+
+Russian — Advanced
