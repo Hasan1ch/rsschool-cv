@@ -21,3 +21,29 @@ Computer Science graduate (First Class Honours) with experience in building mobi
 
 **BSc (Hons) Computer Science — First Class Honours**  
 University of Roehampton, London — 2025 Graduate
+
+## Key Projects
+
+### ProCode — AI-Powered Programming Education Platform
+
+**Technologies:** Flutter/Dart, Firebase, Google Gemini API, Judge0 API
+
+- Built a Progressive Web App for mobile-first programming education.
+- Integrated AI-powered tutoring and personalized learning paths using Gemini API.
+- Implemented real-time code execution with Judge0 API supporting Python.
+- Developed gamification features (XP, leaderboards, achievements) with Firestore.
+
+🔗 [ProCode](https://newprocode.web.app/)
+
+---
+
+### Elite Gisht — Full-Stack Company Website
+
+**Technologies:** React.js, Tailwind CSS, Firebase
+
+- Designed and developed a fully responsive, production-grade web platform.
+- Implemented an admin dashboard for product, pricing, and inventory management.
+- Created a real-time contact system with backend integration.
+- Optimized API response times by **40%** and implemented lazy loading for performance.
+
+🔗 [Website](https://www.elitegisht.com/)
