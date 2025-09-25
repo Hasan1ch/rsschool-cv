@@ -37,7 +37,7 @@ University of Roehampton, London — 2025 Graduate
 
 ---
 
-### Elite Gisht — Full-Stack Company Website
+### Elite Gisht — Full-Stack, Website
 
 **Technologies:** React.js, Tailwind CSS, Firebase
 
