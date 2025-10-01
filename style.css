@@ -1,3 +1,8 @@
+/* Smooth anchor scrolling (safe enhancement) */
+html {
+  scroll-behavior: smooth;
+}
+
 header {
   background: #df9696;
   padding: 1rem 0;
@@ -27,6 +32,8 @@ nav a:hover {
   display: flex;
   align-content: center;
   justify-content: center;
+  flex-direction: column; /* ensures image sits under the h1 neatly */
+  padding: 1rem 0; /* mild spacing so it doesn’t touch the header */
 }
 
 img {
