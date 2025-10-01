@@ -9,6 +9,11 @@ header {
   padding: 1rem 0;
 }
 
+.hero {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
 /* Navigation */
 nav ul {
   display: flex;
@@ -60,4 +65,23 @@ nav a:hover {
   width: 30px;
   height: auto;
   margin-left: 5px;
+}
+
+/* Center content and keep readable width */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+#code-example pre {
+  background: #f6f8fa;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  overflow-x: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", monospace;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
